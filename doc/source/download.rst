@@ -172,7 +172,7 @@ Spack
 ^^^^^
 
 Spack is a package management tool designed to support multiple versions and
-configurations of software on a wide variety of platforms and environments.
+configurations of software on a wide variety of platforms and environments.    
 It was designed for large supercomputing centers. Spack builds packages from
 sources, and allows tweaking their configurations.
 
